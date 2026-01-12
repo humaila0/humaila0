@@ -1,6 +1,6 @@
 #         Hi, I'm Humaila! 👋
         xDatascience intern @10pearls, Acm Code Club Member @MAJU
-🤝 Open to AI/ML, data science, and full-stack collabs solving real-world problems with tangible impact.<br><br>🧠 Eager to level up in scalable ML systems, model deployment, and cloud architectures.<br><br>🌱 Currently diving into cloud computing and advanced ML techniques to solidify my engineering stack.<br><br>💬 Ask about machine learning, data analysis, data science, or end-to-end project builds.<br><br>⚡ "Bugs? Nah, those are just creative side effects."<br>
+🤝 Open to AI/ML, data science, data analysis and full-stack collabs solving real-world problems with tangible impact.<br><br>🧠 Eager to level up in scalable ML systems, model deployment, and cloud architectures.<br><br>🌱 Currently diving into cloud computing and advanced ML techniques to solidify my engineering stack.<br><br>💬 Ask about machine learning, data analysis, data science, or end-to-end project builds.<br><br>⚡ "Bugs? Nah, those are just creative side effects."<br>
 
 
 ## 🌐 Socials:
